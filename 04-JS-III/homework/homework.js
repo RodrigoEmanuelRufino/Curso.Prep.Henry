@@ -63,6 +63,7 @@ function dePalabrasAFrase(palabras) {
   //   str = str + ' ' + palabras[i];
   // }
   // return str;
+  //hola man
   return palabras.join(' ');
 }
 
